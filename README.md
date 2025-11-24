@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `Vinson Lou`
-- **CCID:** `vlou`
+- **Full Name:** 
+- **CCID:**
 
 ## References and Resources
 
